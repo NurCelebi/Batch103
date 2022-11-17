@@ -43,7 +43,7 @@ public class Varargs01 {
     //Method Signature disinda ne degistirirseniz degistirin Java o methodlari farkli kabul etmez.
     //cunku imzaya bakar.
 
-    public static int toplama( int ...a){
+    public static int toplama(int ...a){
         int sum = 0;
         for (int w : a ) {
             sum = sum+w;

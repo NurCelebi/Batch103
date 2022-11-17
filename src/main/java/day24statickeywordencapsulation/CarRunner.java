@@ -34,6 +34,18 @@ public class CarRunner {
         //gore degistirirse ama o method hepsi icin ortak old icin digerleri buna izin vermez.
         //o sebeple override edilemezler
 
+          /*
+                     Interview Question
+        static keyword nedir ?
+        1. Static keyword class'a baglanmis class elemanlaridir.
+        2.  static class elemenalri butun objelerin ortak elemanlaridir.
+        3. staticler uzerinde yapilan her degisiklik butun objeleri etkiler.
+        4.Static class elemenalarina class uzerinden ulasilir.objeler staticlere ulasmak icin kullanilmaz.
+           hata vermez ama tavsiye edilmez.
+        */
+
+
+
 
 
     }
